@@ -3,8 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/rferreirarodrigues)](https://github.com/rferreirarodrigues)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-rodrigues-534039206/)](https://www.linkedin.com/in/rodrigo-rodrigues-534039206/)
 
-### About me
-Graduando em Ciência da Computação pela Universidade Federal de Pelotas, atualmente no 7º semestre.
+### Sobre
+Atualmente sou graduando em Ciência da Computação pela Universidade Federal de Pelotas, atualmente no 7º semestre e bolsista no grupo GASPLN(grupo de pesquisa em Análise de Sentimento e Processamento da Língua Natural).
 
 Tive oportunidade de ser trainee na Empresa Júnior da Computação - Hut8, no qual trabalhei com tecnologias como: versionamento de código, gerenciamento de projetos e tecnologias web.
 
