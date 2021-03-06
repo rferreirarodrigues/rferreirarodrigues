@@ -8,7 +8,7 @@ Atualmente sou graduando em Ciência da Computação pela Universidade Federal d
 
 Tive oportunidade de ser trainee na Empresa Júnior da Computação - Hut8, no qual trabalhei com tecnologias como: versionamento de código, gerenciamento de projetos e tecnologias web.
 
-Além disso, tive a oportunidade de ser voluntário no grupo de pesquisa e extensão Exp-PC - UFPel, no qual criei uma atividade chamada Pac-Man desplugado, com o objetivo de desenvolver habilidades essenciais no pensamento computacional em alunos do ensino fundamental.
+Além disso, tive a oportunidade de ser voluntário no grupo de pesquisa e extensão Exp-PC - UFPel, no qual criei uma atividade chamada Pac-Man desplugado, com o objetivo de desenvolver habilidades essenciais no pensamento computacional em alunos do ensino fundamental, tema no qual atualmente estou desenvolvendo eu TCC.
 
 Para conhecer melhor minha trajetória e meus projetos desenvolvidos, me coloco à disposição para conversarmos.
 
