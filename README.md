@@ -12,7 +12,7 @@ Além disso, tive a oportunidade de ser voluntário no grupo de pesquisa e exten
 
 Para conhecer melhor minha trajetória e meus projetos desenvolvidos, me coloco à disposição para conversarmos.
 
-Contatos:
+#### Contatos
 Email: rfrodrigues@inf.ufpel.eu.br
 
 - [Blog](https://rferreirarodrigues.github.io/rferreirarodrigues.github.io/)
