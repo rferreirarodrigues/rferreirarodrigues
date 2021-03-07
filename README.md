@@ -14,7 +14,3 @@ Para conhecer melhor minha trajetória e meus projetos desenvolvidos, me coloco 
 
 #### Contatos
 Email: rfrodrigues@inf.ufpel.eu.br
-
-- [Blog](https://rferreirarodrigues.github.io/rferreirarodrigues.github.io/)
-- [ExP-PC UFPel](https://wp.ufpel.edu.br/pensamentocomputacional/pt/)
-- [Hut8](https://pt-br.facebook.com/hutEight/)
