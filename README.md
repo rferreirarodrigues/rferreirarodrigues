@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-rodrigues-534039206/)](https://www.linkedin.com/in/rodrigo-rodrigues-534039206/)
 
 ### Sobre
-Atualmente sou graduando em Ciência da Computação pela Universidade Federal de Pelotas, atualmente no 7º semestre.
+Atualmente sou graduando em Ciência da Computação pela Universidade Federal de Pelotas, atualmente no 7º semestre. Gosto de Python e estou empenhado em aprender Data Science e Back-End com Django.
 
 Tive oportunidade de ser trainee na Empresa Júnior da Computação - Hut8, no qual trabalhei com tecnologias como: versionamento de código, gerenciamento de projetos e tecnologias web.
 
